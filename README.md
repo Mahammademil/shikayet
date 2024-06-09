@@ -1,0 +1,2 @@
+# shikayet
+şikayətlərin olduğu platfrom
